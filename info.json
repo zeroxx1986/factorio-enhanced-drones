@@ -1,11 +1,11 @@
 {
     "name": "enhanced-drones",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "title": "Enhanced Drones",
     "author": "zeroxx1986",
     "contact": "",
     "homepage": "https://github.com/zeroxx1986/factorio-enhanced-drones",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "dependencies": ["base >= 1.1.0"],
     "description": "This mod adds the ability to change the construction and logistic drones' speed and consumption via settings."
 }
